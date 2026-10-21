@@ -1,29 +1,23 @@
 # 🚩 CTFs-Writeups
-Resolución paso a paso de máquinas de práctica y retos de seguridad ofensiva y defensiva.
+Resolución paso a paso de máquinas de práctica y retos de seguridad ofensiva, defensiva y OSINT. La documentación incluye análisis de vulnerabilidades, explotación, contención y remediación.
 
+---
 
-## ⚔️ Red Team
+### ⚔️ Red Team
+Resolución de entornos vulnerables, escalada de privilegios y explotación.
+- 🐳 [**DockerLabs**](DockerLabs/)
+- 📦 [**HackTheBox**](HackTheBox/)
+- 🔴 [**TryHackMe**](TryHackMe/)
+- 🕸️ [**PortSwigger**](PortSwigger/)
 
-### 🐳 DockerLabs
-* [📁 Entrar a la carpeta de DockerLabs](./DockerLabs)
+---
 
-### 📦 HackTheBox
-* [📁 Entrar a la carpeta de HackTheBox](./HackTheBox)
+### 🛡️ Blue Team
+Análisis forense, respuesta a incidentes y análisis de tráfico de red.
+- 🔵 [**CyberDefenders**](CyberDefenders/)
 
-### 🔴 TryHackMe
-* [📁 Entrar a la carpeta de TryHackMe](./TryHackMe)
+---
 
-### 🕸️ PortSwigger
-* [📁 Entrar a la carpeta de PortSwigger](./PortSwigger)
-
-
-## 🛡️ Blue Team
-
-### 🔵 CyberDefenders
-* [📁 Entrar a la carpeta de CybersDefenders](./CyberDefenders)
-
-
-## 🕵️‍♂️ OSINT
-
-### 🌍 Sofia Santos
-* [📁 Entrar a la carpeta de Sofia Santos](./SofiaSantos)
+### 🕵️‍♂️ OSINT
+Inteligencia de fuentes abiertas, recolección de información y rastreo digital.
+- 🌍 [**Sofia Santos**](OSINT/SofiaSantos/)
